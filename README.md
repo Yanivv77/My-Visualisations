@@ -10,4 +10,4 @@
 
 
 ## AdventureWorks Report with Power Bi
-![](Covid-19_Analysis.PNG)
+![](AdventureWorks_Report.PNG)
