@@ -7,3 +7,7 @@
 
 ## Covid-19 Analysis with Power Bi
 ![](Covid-19_Analysis.PNG)
+
+
+## AdventureWorks Report with Power Bi
+![](Covid-19_Analysis.PNG)
