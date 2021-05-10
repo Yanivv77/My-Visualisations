@@ -24,6 +24,6 @@
 ---
 
 ## Tesla Stock Price Dashboard with Tableau
-![](Tesla%20Stock%20Price%20Dashboard.png.PNG)
+![](Tesla%20Stock%20Price%20Dashboard.png)
 
 
