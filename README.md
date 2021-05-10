@@ -19,3 +19,11 @@
 ## World Happiness Analysis with Tableau
 ![](World%20Happiness%201.PNG)
 ![](World%20Happiness%202.PNG)
+
+
+---
+
+## Tesla Stock Price Dashboard with Tableau
+![](Tesla%20Stock%20Price%20Dashboard.PNG)
+
+
